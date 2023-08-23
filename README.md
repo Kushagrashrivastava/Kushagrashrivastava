@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kushagrashrivastava" alt="kushagrashrivastava" /></a> </p>
 
-- 🔭 I’m currently working on **CMS**
+- 🔭 I’m currently working in **College CMS**
 
 - 🌱 I’m currently learning **ReactJS, JavaScript**
 
