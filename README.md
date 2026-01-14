@@ -30,7 +30,7 @@
 ### 💬 Ask me about
 - Chatbot integrations  
 - Automation & testing strategies  
-- JavaScript / React basics  
+- JavaScript / React / NodeJs
 - Bot flow debugging  
 
 ---
